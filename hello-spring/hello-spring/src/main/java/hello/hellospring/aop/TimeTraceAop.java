@@ -20,5 +20,3 @@ public class TimeTraceAop {
         }
     }
 }
-해결
-        회원가입, 회원 조회등 핵심 관
