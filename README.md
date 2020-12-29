@@ -74,3 +74,7 @@ Core Member: 방경림, 신동선
 ## 그 이후
 
 스프링 스터디와 리액트 스터디에 참여하는 멤버들과 팀을 짜서 토이프로젝트를 진행합니다.
+
+## 회고
+
+![image](https://user-images.githubusercontent.com/52663248/103261565-5659db80-49e5-11eb-9fb8-f94c2fabd210.png)
