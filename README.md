@@ -1,5 +1,7 @@
 # DSC-Sookmyung Spring Boot 강의
 
+![image](https://user-images.githubusercontent.com/52663248/103261565-5659db80-49e5-11eb-9fb8-f94c2fabd210.png)
+
 Core Member: 방경림, 신동선
 
 ## 😀 꼭 읽어봐주세요 😀
@@ -26,9 +28,6 @@ Core Member: 방경림, 신동선
 ### 👩🏻‍💻 진행하며 같이 들어야 할 강의
 
 [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술 - 인프런](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8)
-
-![image](https://user-images.githubusercontent.com/52663248/103261334-86ed4580-49e4-11eb-9f4f-7618f7cf02df.png)
-
 
 - 강좌 수강 계획
 
@@ -75,6 +74,3 @@ Core Member: 방경림, 신동선
 
 스프링 스터디와 리액트 스터디에 참여하는 멤버들과 팀을 짜서 토이프로젝트를 진행합니다.
 
-## 회고
-
-![image](https://user-images.githubusercontent.com/52663248/103261565-5659db80-49e5-11eb-9fb8-f94c2fabd210.png)
