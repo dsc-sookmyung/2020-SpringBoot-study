@@ -1,0 +1,7 @@
+<html xmlns:th="http://www.thymeleaf.org"> <body>
+<p th:text="'hello ' + ${name}">hello! empty</p> </body>
+</html>
+
+# ${name} model에서 값을 꺼내온다# thymeleaf 장점 : 서버 없이 그냥 html 볼 때 껍데기만 빠르게 확인 가능
+# 정적 컨텐츠는 변화 x 하지만 이번 예제는 thymeleaf가 ${}을 모델에서 가져온 값으로
+변환 후 html로 보여준다.
